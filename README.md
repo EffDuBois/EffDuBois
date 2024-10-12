@@ -1,10 +1,10 @@
-### Hi there!!
-I am Arnab, I like to build stuff. mostly work in Frontend while tapping into GenAI.
+### Hi fellow traveller!!
+I am Arnab, I like to build stuff. mostly work in Frontend.
 
-- 🔭 I’m currently working on NodeJS and DSA with a sprinkle of LangChain
-- 🌱 I’m currently learning about GenAI and it's application
-- 👯 I’m looking to collaborate on WEB development as well as GenAI projects
-- - 💬 Ask me about anything Frontend
+- 🔭 I’m currently working on NodeJS and DSA.
+- 🌱 Also learning about GenAI and LangChain.
+- 👯 I’m looking to collaborate on WEB, GenAI projects
+- 💬 Ask me about anything Frontend
 - 📫 Reach me at arnabkar2003@protonmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are just hallucinating these words on the screen, they are not real. Go read a book instead.
