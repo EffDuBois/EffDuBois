@@ -5,9 +5,7 @@ I am Arnab, I like to build stuff. mostly work in Frontend.
 - 🌱 Also learning about GenAI and LangChain.
 - 👯 I’m looking to collaborate on WEB, GenAI projects
 - 💬 Ask me about anything Frontend
-- 📫 Reach me at arnabkar2003@protonmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You are just hallucinating these words on the screen, they are not real. Go read a book instead.
+- ⚡ You are just hallucinating these words on the screen, they are not real. Go read a book.
 #### Tools I Know
 <p align="left">
   
