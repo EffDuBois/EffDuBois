@@ -26,6 +26,7 @@ I am Arnab, I like to build stuff. mostly work in Frontend.
   ![](https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=flat-square)
   ![](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=flat-square)
   ![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=flat-square)
+  ![](https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=flat-square)
 <br/>
   ![](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=flat-square)
   ![](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=flat-square)
