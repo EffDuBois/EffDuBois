@@ -1,10 +1,10 @@
 ### Hello Wanderer!!
 I am Arnab, I like to build stuff. mostly work in Frontend.
 
-- 🔭 I’m currently working on NodeJS and DSA.
+- 🔭 I’m currently working on NodeJS.
 - 🌱 Also learning about GenAI and LangChain.
-- 👯 I’m looking to collaborate on WEB, GenAI projects
-- 💬 Ask me about anything Frontend
+- 👯 I’m looking to collaborate on Web, GenAI projects
+- 💬 Ask me about anything web technologies.
 - ⚡ You are just hallucinating these words on the screen, they are not real. Go read a book.
 #### Tools I Know
 <p align="left">
