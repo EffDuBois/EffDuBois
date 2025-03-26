@@ -32,12 +32,19 @@ I am Arnab, I like to build stuff. mostly work in Frontend.
     <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge"/>
   <br/>
+    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=for-the-badge"/>
+  <br/>
+    <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?logo=amazonwebservices&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/EC2-%23FF9900.svg?logo=amazonec2&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Lambda-%23FF9900.svg?logo=awslambda&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/S3-%23569A31.svg?logo=amazons3&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/RDS-%23527FFF.svg?logo=amazonrds&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Route%2053-%238C4FFF.svg?logo=amazonroute53&logoColor=white&style=for-the-badge"/>
+  <br/>
     <img src="https://img.shields.io/badge/Cloudflare-%23F38020.svg?logo=cloudflare&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Workers-%23F38020.svg?logo=cloudflareworkers&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Pages-%23F38020.svg?logo=cloudflarepages&logoColor=white&style=for-the-badge"/>
-  <br/>
-    <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white&style=for-the-badge"/>
   <br/>
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
