@@ -10,7 +10,7 @@ I am Arnab, I like to build stuff. mostly work in Frontend.
 
 #### Tools I Know
 
-<div style="text-align: center;">
+<div align="center" style="text-align: center;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB&style=for-the-badge"/>
@@ -42,9 +42,11 @@ I am Arnab, I like to build stuff. mostly work in Frontend.
     <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/🦜️🔗LangChain-%2300599C.svg?style=for-the-badge"/>
-  <div style="display:flex;flex-direction:column;align-items:center;flex-gap:10px;margin-top:20px;">
+  <div align="center" style="display:flex;flex-direction:column;align-items:center;flex-gap:10px;margin-top:20px;">
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=EffDuBois&theme=dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/?username=EffDuBois&theme=vision-friendly-dark&show_icons=true"/>
+    <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EffDuBois&theme=vision-friendly-dark&layout=compact"/>
   </div>
 </div>
